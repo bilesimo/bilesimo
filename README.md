@@ -1,22 +1,25 @@
 # 🎬 João Vitor Bilesimo Menegali
 
-**`Just someone who likes to solve difficult problems`**
+**`I'm someone who likes to solve difficult problems`**
 
 - 🧑🏻‍💻 Working as a Software Engineer Intern at [**NEO Empresarial**](https://neo.certi.org.br)
-- 📚 Studying Mechanical Engineering undergraduate at [**Federal University of Santa Catarina**](https://www.ufsc.br)
+- 📚 Studying Mechanical Engineering at [**Federal University of Santa Catarina**](https://www.ufsc.br)
 - 🌱 Currently developing my skills on **TypeScript** and **React**
 - 🔭 Looking to **insert myself in the Web3 world!**
 
 
 #### Connect with me:
 
-<a href="https://www.linkedin.com/in/bilesimomenegali" style="text-decoration:0; margin:10px">
-<img lign="left" alt="LinkedIn" width="30px" style="margin:10px; border-radius:5px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>
-</a>
-<a href="https://www.instagram.com/bilesimomenegali/" style="text-decoration:0; margin:10px">
-<img lign="left" alt="Instagram" width="30px" style="margin:10px; border-radius:5px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">
-</a>
 
+<a href="https://www.linkedin.com/in/bilesimomenegali">
+  <img align="left" alt="LinkedIn" width="30px" style="margin:10px; border-radius:5px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+</a>
+</img>
+<a href="https://www.instagram.com/bilesimomenegali/">
+  <img align="left" alt="Instagram" width="30px" style="margin:10px; border-radius:5px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />    
+</a>
+<br/>
+<br/>
 
 ___
 
