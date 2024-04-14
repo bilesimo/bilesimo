@@ -8,7 +8,7 @@
 - 🔭 Looking to **insert myself in the Web3 world!**
 
 
-#### Connect with me:
+### Connect with me:
 
 
 <a href="https://www.linkedin.com/in/bilesimomenegali">
@@ -23,7 +23,7 @@
 
 ___
 
-#### 🧰 Languages and Tools
+### 🧰 Languages and Tools
 
 <img align="left" alt="JavaScript" width="50px" style="margin:10px; border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" width="50px" style="margin:10px; border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -38,13 +38,13 @@ ___
 <br/>
 
 
-#### 📝 About me
+### 📝 About me
 
 Combining my background as a Mechanical Engineering undergraduate with my role as a Software Developer, I've dedicated myself to exploring new opportunities and overcoming fresh challenges in this field. With hands-on experience in project management, agile methods, and crafting APIs and responsive websites, I'm always eager to learn and grow.
 
 Recently, I've developed a keen interest in the potential of Web3 and I'm thrilled to dive into its possibilities and contribute to its progress. To get there, I'm sharpening my skills in Web2 technologies and working on projects, which you can check out below.
 
 
-#### 📊 Stats
+### 📊 Stats
 
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilesimomenegali&show_icons=true&theme=radical)
