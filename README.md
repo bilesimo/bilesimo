@@ -9,7 +9,7 @@
 
 
 #### Connect with me:
-[<img lign="left" alt="LinkedIn" width="30px" style="margin:10px; border-radius:5px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg">](https://www.linkedin.com/in/bilesimomenegali)  [<img lign="left" alt="Instagram" width="30px" style="margin:10px; border-radius:5px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">](https://www.instagram.com/bilesimomenegali/)
+[<img lign="left" alt="LinkedIn" width="30px" style="margin:10px; border-radius:5px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg">](https://www.linkedin.com/in/bilesimomenegali)         [<img lign="left" alt="Instagram" width="30px" style="margin:10px; border-radius:5px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">](https://www.instagram.com/bilesimomenegali/)
 
 ___
 
