@@ -45,6 +45,3 @@ Combining my background as a Mechanical Engineering undergraduate with my role a
 Recently, I've developed a keen interest in the potential of Web3 and I'm thrilled to dive into its possibilities and contribute to its progress. To get there, I'm sharpening my skills in Web2 technologies and working on projects, which you can check out below.
 
 
-### 📊 Stats
-
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilesimomenegali&show_icons=true&theme=radical)
