@@ -1,6 +1,6 @@
 # 🎬 João Vitor Bilesimo Menegali
 
-**`I'm just someone who likes to solve difficult problems`**
+**`I'm someone who likes to solve difficult problems`**
 
 - 🧑🏻‍💻 Working as a Software Engineer Intern at [**NEO Empresarial**](https://neo.certi.org.br)
 - 📚 Studying Mechanical Engineering at [**Federal University of Santa Catarina**](https://www.ufsc.br)
