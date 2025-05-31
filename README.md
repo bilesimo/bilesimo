@@ -7,17 +7,17 @@
 
 ___
 
-### 🧰 Languages and Tools
-
-<img align="left" alt="JavaScript" width="50px" style="margin:10px; border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" width="50px" style="margin:10px; border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Nextjs" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Tailwindcss" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="Python3" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Django" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+### 🧰 Languages and Tools      
+<img align="left" alt="Rust" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+<img align="left" alt="Posgresql" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Posgresql" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Docker" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="Django" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+<img align="left" alt="Python3" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="React" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Nextjs" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="TypeScript" width="50px" style="margin:10px; border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Tailwindcss" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <br/>
 <br/>
 <br/>
