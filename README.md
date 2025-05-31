@@ -10,7 +10,6 @@ ___
 ### 🧰 Languages and Tools      
 <img align="left" alt="Rust" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 <img align="left" alt="Posgresql" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Posgresql" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Docker" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="Django" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 <img align="left" alt="Python3" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
