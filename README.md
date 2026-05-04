@@ -1,6 +1,6 @@
 # 🎬 Bilesimo
 
-**`Backend / systems-oriented engineer focused on difficult problems, performance, and reliable infrastructure.`**
+**`I like solving hard problems and building reliable software.`**
 
 - 🧑🏻‍💻 Software Engineer at [**Phase Labs**](https://www.phaselabs.io/)
 - ⚙️ Building backend systems with **Rust**, **TypeScript**, **PostgreSQL**, and **Redis**
