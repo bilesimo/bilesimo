@@ -1,36 +1,34 @@
 # 🎬 Bilesimo
 
-**`I like solving hard problems and building reliable software.`**
+I like solving hard problems and building reliable software.
 
-- 🧑🏻‍💻 Founding Engineer at **Nora Finance**
-- ⚙️ Leading backend development with **Rust**, **TypeScript**, **PostgreSQL**, and **Redis**
-- ⛓️ Working on financial infrastructure, DeFi systems, and production-grade data services
+- Founding Engineer at **Nora Finance**, leading backend development and infrastructure
+- Building stablecoin payment systems with Pix integrations and on-chain settlement
+- Working across backend architecture, AWS infrastructure, observability, and production security
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages and tools
 
-<img align="left" alt="Rust" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
-<img align="left" alt="TypeScript" width="50px" style="margin:10px; border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Python" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="PostgreSQL" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Redis" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-<img align="left" alt="Docker" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="Django" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img align="left" alt="React" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Next.js" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="AWS" width="50px" style="margin:10px; border-radius:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-
-<br/>
-<br/>
-<br/>
+<p>
+  <img alt="Rust" width="50" height="50" src="https://cdn.simpleicons.org/rust/DEA584" />
+  <img alt="TypeScript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/typescript/typescript-original.svg" />
+  <img alt="Python" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/python/python-original.svg" />
+  <img alt="PostgreSQL" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/postgresql/postgresql-original.svg" />
+  <img alt="Redis" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/redis/redis-original.svg" />
+  <img alt="Docker" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/docker/docker-original.svg" />
+  <img alt="Django" width="50" height="50" src="https://cdn.simpleicons.org/django/44B78B" />
+  <img alt="React" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/react/react-original.svg" />
+  <img alt="Next.js" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/nextjs/nextjs-original.svg" />
+  <img alt="AWS" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/amazonwebservices/amazonwebservices-plain.svg" />
+</p>
 
 ### 📝 About me
 
-I’m a software engineer focused on backend systems, data infrastructure, and performance-critical applications.
+I’m a software engineer focused on backend systems and financial infrastructure.
 
-I enjoy working on difficult problems, especially when they involve understanding complex systems, designing reliable services, and making production software faster, safer, and more scalable.
+At **Nora Finance**, I lead backend development and infrastructure for stablecoin payments, connecting Pix payments with on-chain operations. My work includes settlement workflows and the backoffice tools used to operate them.
 
-I currently work as a Founding Engineer at **Nora Finance**, where I lead backend development. My work involves building reliable financial infrastructure, designing backend architecture, and developing systems that support production-grade applications.
+I also work on AWS infrastructure, deployment pipelines, observability, and production security. My current backend stack centers on **TypeScript**, **PostgreSQL**, and **Redis**.
 
 Previously, I worked on Solana-focused infrastructure and tax/reporting systems, with an emphasis on Rust services, async processing pipelines, historical data indexing, and protocol integrations.
